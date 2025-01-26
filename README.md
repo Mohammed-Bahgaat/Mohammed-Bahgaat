@@ -24,7 +24,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![Embedded C](https://img.shields.io/badge/-Embedded%20C-05122A?style=flat&logo=Embedded-C&logoColor=007ACC)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logoColor=007ACC)&nbsp;
+![C](https://img.shields.io/badge/-05122A?style=flat&logo=C&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
