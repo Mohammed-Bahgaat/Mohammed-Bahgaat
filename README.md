@@ -16,10 +16,9 @@
 - ⚡ Fun Fact: I'm a Tea enthusiast and my perfect day would start and end with a cup of Tea.
 
 
-### Connect with Me :
+### Connect with Me in linkedin :
+<a href="https://linkedin.com/in/mohamed-bahgaat/" target="_blank"><img src="https://img.shields.io/badge/-Mohmaed%20Bahgat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-<a href="https://www.linkedin.com/in/mohamed-bahgaat/" target="_blank"><img src="https://img.shields.io/badge/Mohamed%20Bahgat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-</a>
 
 
 ### 🛠 &nbsp;Tech Stack
